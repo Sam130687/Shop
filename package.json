@@ -1,6 +1,6 @@
 {
   "name": "shop",
-  "home": "https://Sam130687.github.io/Shop",
+  "homepage": "https://Sam130687.github.io/Shop",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
